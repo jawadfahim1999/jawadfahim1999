@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jawad Fahim
-![Header Animation](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+![Header Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM1Y2d3Zmh5azB3ODd5cjJrMzl3eGl4aXg2M3I1am1zYWZtdWVzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.gif)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](LINKEDIN_URL)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=google-chrome&logoColor=white)](PORTFOLIO_URL)
@@ -75,8 +75,9 @@ Working on frontend features, collaboration with cross-functional teams and deli
 ## 📊 GitHub Stats
 > Replace `YOUR_GITHUB_USERNAME` with your GitHub username in the image URLs below.
 
-![Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![jawadfahim1999's Stats](https://github-readme-stats.vercel.app/api?username=jawadfahim1999&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![jawadfahim1999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jawadfahim1999&theme=vue-dark&hide_border=true)
+![jawadfahim1999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadfahim1999&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
@@ -95,10 +96,9 @@ Working on frontend features, collaboration with cross-functional teams and deli
 ---
 
 ## ❤️ Fun & Extras
-![Cool animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Cool animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXp4aWVtNGdieTkzcHVlYmM3YzQwMzExbmJrdmVhZWFiM3gya3JxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 If you like my profile — feel free to ⭐ this repo, connect on LinkedIn, or open an issue to say hi!
 
 ---
 
-*README generated from a LinkedIn-style profile snapshot. Edit anything above to personalize further (profile links, GitHub username, exact role descriptions).*
