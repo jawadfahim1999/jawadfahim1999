@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jawad Fahim
-![Header Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM1Y2d3Zmh5azB3ODd5cjJrMzl3eGl4aXg2M3I1am1zYWZtdWVzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.gif)
+![Header Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R4Y2Ruc2VudTNoc2JwdHY2Nzg5cGdlZ2RzMTBqMnB6NndsMDlqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wEgs1cd7vDTt6/giphy.gif)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](LINKEDIN_URL)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=google-chrome&logoColor=white)](PORTFOLIO_URL)
@@ -76,8 +76,10 @@ Working on frontend features, collaboration with cross-functional teams and deli
 > Replace `YOUR_GITHUB_USERNAME` with your GitHub username in the image URLs below.
 
 ![jawadfahim1999's Stats](https://github-readme-stats.vercel.app/api?username=jawadfahim1999&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![jawadfahim1999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jawadfahim1999&theme=vue-dark&hide_border=true)
+
 ![jawadfahim1999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadfahim1999&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![jawadfahim1999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jawadfahim1999&theme=vue-dark&hide_border=true)
 
 ---
 
