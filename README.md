@@ -68,12 +68,10 @@ Working on frontend features, collaboration with cross-functional teams and deli
 - Built product listing, location filters, barter request flows, real-time chat (Socket.io), and notification updates.  
 - Implemented JWT-based authentication and secure user flows.
 
-> _See code & deployment details in the `projects/barterx` folder._
 
 ---
 
 ## 📊 GitHub Stats
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username in the image URLs below.
 
 ![jawadfahim1999's Stats](https://github-readme-stats.vercel.app/api?username=jawadfahim1999&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -92,8 +90,8 @@ Working on frontend features, collaboration with cross-functional teams and deli
 
 ## 📫 Get in touch
 - LinkedIn: [Jawad Fahim](LINKEDIN_URL)  
-- Portfolio: [PORTFOLIO_URL]  
-- Email: your.email@example.com
+- Portfolio:  
+- Email: 
 
 ---
 
